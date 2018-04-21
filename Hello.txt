@@ -1,0 +1,10 @@
+DevOps Training >> Hello.java
+ls
+dir
+echo DevOps Training >> Hello.java
+ls
+dir
+ls -ltr
+echo DevOps Training >> Hello.txt
+ls -ltr
+echo DevOps Training
